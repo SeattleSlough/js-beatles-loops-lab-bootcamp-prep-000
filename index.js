@@ -28,8 +28,8 @@ function iLoveTheBeatles(num) {
   var array = [];
   var i = 0;
   if (num === 17) {
-    array.push("Ilove the Beatles")
-    }else{
+    array.push("I love the Beatles")
+    } else {
       do {
     array.push("I love the Beatles!");
     i++;
